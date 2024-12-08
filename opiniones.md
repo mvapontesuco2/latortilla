@@ -5,8 +5,8 @@
 
 
 > [!IMPORTANT]
-> No elimines comentarios  
-> Añade tu nombre junto a tu comentario
+> No eliminar comentarios  
+> No se aceptarán comentarios anónimos
 
 ---
 > Siempre la prefiero con cebolla, sin cebolla está seca
